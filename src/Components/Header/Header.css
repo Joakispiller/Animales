@@ -1,0 +1,21 @@
+.head{
+    background:
+    radial-gradient(at center center, rgb(165, 180, 252), rgb(192, 132, 252))
+    ;
+    height: 4em;
+    border-bottom: 1.9px solid black;
+   
+   
+}
+.seres{
+    text-align: center;
+   padding-top: 0.75em;
+   font-family: 'Borel';
+   font-size: 1.7em;
+   color: #F7A8D7;
+   text-shadow: 
+    -1px -1px 0 black, 
+    1px -1px 0 black,  
+    -1px 1px 0 black,  
+    1px 1px 0 black;
+}
